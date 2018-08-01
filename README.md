@@ -22,6 +22,12 @@ Links:
 
     Gerenciando ambientes anaconda (en-US):
     https://conda.io/docs/user-guide/tasks/manage-environments.html
+    
+    Pasta Completa, com toda a apostila e arquivos (pasta publica e editável):
+    https://drive.google.comdrivefolders1s7DW2jSkE8Dl9EbKzcMY41X99-rbZos3
+    
+    Download da versão .rar (acessar pelo index.html na pasta principal)
+    https://1drv.ms/u/s!Aux2aa8BuZHc1yfRpZpYctS6m-qk
 
 Passo 1: Criar um ambiente
 
