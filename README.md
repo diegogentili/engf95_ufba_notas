@@ -5,10 +5,13 @@ Este repositório guarda as notas referentes ao material didático fornecido pel
 
 O objetivo do material exposto neste canal é realizar um convite aos usuários do software MATLAB a uma alternativa gratuita como ferramenta computacional para utilização em cálculos de controle de processos.
 
+Neste repositório também estão disponíveis um conjunto de apostilas que visam aprimorar o entendimento do conteúdo demonstrado na disciplina.
+
 Alunos: 
 Almir Vinícius, Diego G. Veiga, Leonilson Gomes e Rafael Lucena
 
 Links:
+    
     Instalando o python3 (en-US):
     https://www.python.org/downloads/
     Vídeo auxiliar: Curso Python #03 - Instalando o Python3 e o IDLE | Canal Youtube: Curso em Vídeo
